@@ -24,7 +24,7 @@ class _HomePageState extends State<HomePage> {
     "ENGLAND",
     "SYRIA",
     "INDIA",
-    "Nepal"
+    "NEPAL"
   ];
 
   @override
